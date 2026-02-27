@@ -98,7 +98,7 @@ Please, use [msx-joyplay-v2 Build2](#build2) for making new boards if you want s
 
 ### [Build2](hardware/kicad/msx-joyplay-v2-build2)
 
-[Bill Of Materials (BoM)](https://html-preview.github.io/?url=https://raw.githubusercontent.com/herraa1/msx-joyplay-v2/main/hardware/kicad/msx-joyplay-v2-build2/bom/ibom.html)
+[Bill Of Materials (BoM)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/herraa1/msx-joyplay-v2/main/hardware/kicad/msx-joyplay-v2-build2/bom/ibom.html)
 
 The Build2 adapter mimics completely the standard MSX joystick behaviour:
 
